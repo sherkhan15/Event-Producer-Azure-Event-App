@@ -1,4 +1,4 @@
-# Event-Producer-Azure-Event-App
+
 Configure Azure Stream Analytics with Event Hub and Blob Storage Inputs
 =======================================================================
 
